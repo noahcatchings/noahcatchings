@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Noah Catchings</h1>
-<h3 align="center">I am currently a junior at the University of North Alabama majoring in Software Development</h3>
+<h3 align="center">I am currently a student at Western Governors University focused on enhancing my skills in Cybersecurity and Vulnerability Management</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahcatchings&label=Profile%20views&color=0e75b6&style=flat" alt="noahcatchings" /> </p>
 
